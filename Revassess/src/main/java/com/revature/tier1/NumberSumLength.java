@@ -12,7 +12,6 @@ public class NumberSumLength {
 	private String role;
 	
 	
-	
 	public NumberSumLength() {
 		super();
 
@@ -92,7 +91,6 @@ public class NumberSumLength {
 
 	public static boolean checkNumberPowerLength(long num) {
 		
-		this.num = num;
 		return false;
 	}
 }
